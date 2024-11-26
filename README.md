@@ -12,4 +12,12 @@ https://xmind.ai/share/DysmdCyM?xid=R21CLLxv
 Khóa chính: customer_number(customer), tran_number(transactions), account_number(accounts)
 Khóa ngoại: customer_number, account_number
 - Bài tập 3: Phân tích và thiết kế CSDL
-  
+  ![image](https://github.com/user-attachments/assets/924cfcfd-d3bb-4f07-adce-eb972ba9f3a3)
+![image](https://github.com/user-attachments/assets/cd89714d-ca66-45bd-b9c4-73d2fe3f7f2a)
+- Bài 4 :Thiết kế và cài đặt CSDL cho ứng dụng Quản lý thư viện
+![image](https://github.com/user-attachments/assets/53c4176b-9292-4dd3-8f6d-d005debd16f0)
+- Bài 5:
+![image](https://github.com/user-attachments/assets/61e61fbc-bc3d-4f4d-8dd3-e89b828f37ef)
+![image](https://github.com/user-attachments/assets/16fd1a44-48c6-4e0d-b272-898531ea1bd4)
+![image](https://github.com/user-attachments/assets/e2d9bda0-332c-491f-aa5d-c301c64f89e1)
+![image](https://github.com/user-attachments/assets/0ac84f24-e809-4e50-8346-0e8773ff8b8c)
